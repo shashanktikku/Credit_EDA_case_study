@@ -1,1 +1,1 @@
-# Credit_EDA_case_study
+# Credit_Risk_Analysis
